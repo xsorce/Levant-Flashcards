@@ -1,0 +1,1001 @@
+Front,Back
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>مرحبا</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(mar7aba)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Hello</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>مرحبا، كيفك؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>mar7aba, kīfak/kīfik?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Hello, how are you?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>أهلين</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ahleen)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Hi (warm)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>أهلين! شو الأخبار؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ahleen! shū l-akhbār?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Hi! What’s up?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>أهلا وسهلا</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ahlan w sahlan)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Welcome</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>أهلا وسهلا فيك.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ahlan w sahlan fīk.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Welcome (to you).</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>صباح الخير</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ṣabā7 l-kheir)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Good morning</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>صباح الخير!</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ṣabā7 l-kheir!</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Good morning!</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>مساء الخير</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(masā l-kheir)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Good evening</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>مساء الخير!</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>masā l-kheir!</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Good evening!</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>تصبح على خير</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(tiṣba7 3a kheir)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Good night</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>تصبح على خير.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>tiṣba7 3a kheir.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Good night.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>مع السلامة</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ma3 s-salāme)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Goodbye</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>يلا، مع السلامة.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>yalla, ma3 s-salāme.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Alright, goodbye.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>سلام</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(salām)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Bye / peace</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>سلام! بشوفك.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>salām! bshūfak.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Bye! See you.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>كيفك؟ / كيفِك؟</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(kīfak? / kīfik?)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>How are you?</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>كيفك اليوم؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>kīfak il-yōm?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>How are you today?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>تمام</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(tamām)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Okay / perfect</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>تمام، خلّينا نروح.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>tamām, khallīna nrū7.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Okay, let’s go.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>منيح</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(mnī7)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Good / fine</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>أنا منيح.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ana mnī7.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I’m good.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>مو منيح</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(mū mnī7)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Not good</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>اليوم مو منيح.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>il-yōm mū mnī7.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Today is not good.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>شو الأخبار؟</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(shū l-akhbār?)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>What’s up?</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>شو الأخبار معك؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>shū l-akhbār ma3ak/ma3ik?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>What’s up with you?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>شكراً</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(shukran)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Thank you</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>شكراً كتير.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>shukran ktīr.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Thank you very much.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>عفواً</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(3afwan)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>You’re welcome / excuse me</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>عفواً، ولا يهمّك.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>3afwan, wala yhimmak.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>You’re welcome, no problem.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>لو سمحت</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(law sama7t)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Please</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>لو سمحت، ممكن مي؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>law sama7t, mumkin mayy?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Please, can I get water?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>معلِش</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ma3leesh)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>No worries / it’s okay</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>معلِش، عادي.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ma3leesh, 3ādī.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>No worries, it’s fine.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>آسف</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(āsif)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Sorry (m)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>آسف، تأخرت.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>āsif, ta2akhkhart.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Sorry, I’m late.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>آسفة</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(āsfe)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Sorry (f)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>آسفة، غلطت.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>āsfe, ghalaṭt.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Sorry, I made a mistake.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>يسلّموا</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ysallmū)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Thanks (colloquial)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>يسلّموا إيديك.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ysallmū 2īdēk.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Thanks (lit. bless your hands).</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>تفضل</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(tfaDDal)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Go ahead / here you go (m)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>تفضل، هاي القهوة.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>tfaDDal, hāy il-2ahwe.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Here you go, this is the coffee.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>تفضلي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(tfaDDale)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Go ahead / here you go (f)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>تفضلي، هاي المي.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>tfaDDale, hāy il-mayy.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Here you go, this is the water.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>صحة</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ṣa7a)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Cheers / enjoy (food)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>صحة وهنا!</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ṣa7a w hana!</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Enjoy your meal!</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>نعم</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(na3am)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Yes</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>نعم، أكيد.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>na3am, أكيد (akīd).</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Yes, for sure.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>إيه</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ēh)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Yeah (yes)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>إيه، تمام.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ēh, tamām.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Yeah, okay.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>لا</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(lā)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>No</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>لا، مش هيك.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>lā, mish hēk.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>No, not like that.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>ممكن</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(mumkin)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Can / possible</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>ممكن تساعدني؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>mumkin tsā3idnī?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Can you help me?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>أكيد</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(akīd)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Of course / sure</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>أكيد! ليش لا؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>akīd! lēsh lā?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Of course! Why not?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>يمكن</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(yumkin)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Maybe</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>يمكن بكرا.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>yumkin bukra.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Maybe tomorrow.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>طيب</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ṭayyeb)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Okay / well</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>طيب، شو بدك؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ṭayyeb, shū biddak?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Okay, what do you want?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>خلص</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(khalaṣ)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Done / enough / okay</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>خلص، تمام.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>khalaṣ, tamām.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Okay, done.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>شو</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(shū)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>What</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>شو هاد؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>shū hād?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>What is this?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>وين</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(wēn)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Where</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>وين الحمام؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>wēn il-7ammām?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Where is the bathroom?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>ليش</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(lēsh)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Why</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>ليش هيك؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>lēsh hēk?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Why like that?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>متى</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ēmtā)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>When</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>إمتى بدك تجي؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ēmtā biddak tījī?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>When do you want to come?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>مين</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(mīn)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Who</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>مين هاد؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>mīn hād?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Who is this?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>قدّيش</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(2addeesh)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>How much / how many</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>قدّيش السعر؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>2addeesh is-si3r?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>How much is the price?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>كيف</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(kīf)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>How</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>كيف بدي أوصل؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>kīf biddī 2awṣal?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>How do I get there?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>قدّام</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(2uddām)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>In front of</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>المحل قدّامك.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>il-ma7all 2uddāmak.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>The shop is in front of you.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>ورا</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(wara)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Behind</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>السيارة ورا البيت.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>is-sayyāra wara l-bēt.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>The car is behind the house.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>جنب</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(janb)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Next to</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>قعد جنبِي.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>23od janbī.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Sit next to me.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>أنا</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ana)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>I</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>أنا من هون.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ana min hōn.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I’m from here.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>إنت</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(inta)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>You (m)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>إنت جاهز؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>inta jāhez?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Are you ready?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>إنتِ</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(inti)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>You (f)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>إنتِ جاهزة؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>inti jāhze?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Are you ready? (f)</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>هو</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(huwwa)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>He</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>هو مش هون.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>huwwa mish hōn.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>He’s not here.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>هي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(hiyye)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>She</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>هي هون.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>hiyye hōn.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>She’s here.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>نحنا</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ni7na)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>We</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>نحنا رايحين.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ni7na rāy7īn.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>We’re going.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>إنتو</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(intu)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>You (plural)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>إنتو وين؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>intu wēn?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Where are you (all)?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>هنن</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(hinnen)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>They</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>هنن جايين.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>hinnen jāyīn.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>They’re coming.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>هال</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(hal)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>This (dialect: “this/these”)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>هالشي حلو.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>hal-shī 7elw.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>This thing is nice.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>هاي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(hāy)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>This (f) / here (f)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>هاي كتير طيبة.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>hāy ktīr ṭayybe.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>This is very tasty.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>هاد</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(hād)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>This (m)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>هاد جديد.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>hād jdīd.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>This is new.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>بدّي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(baddī)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>I want</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بدّي قهوة.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>baddī 2ahwe.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I want coffee.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>ما بدّي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(mā baddī)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>I don’t want</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>ما بدّي هلّق.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>mā baddī halla2.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I don’t want now.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>عندي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(3indī)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>I have</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>عندي سؤال.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>3indī su2āl.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I have a question.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>ما عندي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(mā 3indī)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>I don’t have</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>ما عندي وقت.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>mā 3indī wa2t.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I don’t have time.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>في</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(fī)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>There is/are</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>في مي هون.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>fī mayy hōn.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>There is water here.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>ما في</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(mā fī)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>There isn’t/aren’t</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>ما في مشكلة.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>mā fī mishkle.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>No problem.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>بدي روح</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(baddī rū7)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>I want to go</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بدي روح هلّق.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>baddī rū7 halla2.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I want to go now.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>تعال</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ta3āl)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Come (m)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>تعال لهون.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ta3āl la-hōn.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Come here.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>تعالي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ta3āle)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Come (f)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>تعالي هلّق.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ta3āle halla2.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Come now.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>روح</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(rū7)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Go (m)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>روح عالبيت.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>rū7 3al-bēt.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Go home.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>روحي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(rū7i)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Go (f)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>روحي هلّق.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>rū7i halla2.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Go now.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>استنى</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(istanna)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Wait</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>استنى شوي.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>istanna shway.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Wait a little.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>بشوفك</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(bshūfak/bshūfik)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>See you</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بشوفك بكرا.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>bshūfak bukra.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>See you tomorrow.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>بعرف</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ba3ref)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>I know</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بعرف هالمنطقة.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ba3ref hal-manṭa2a.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I know this area.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>ما بعرف</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(mā ba3ref)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>I don’t know</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>ما بعرف.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>mā ba3ref.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I don’t know.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>بفهم</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(bfahham)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>I understand</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>أنا بفهم شوي.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ana bfahham shway.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I understand a little.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>ما بفهم</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(mā bfahham)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>I don’t understand</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>ما بفهم عربي.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>mā bfahham 3arabī.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I don’t understand Arabic.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>احكي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(i7kī)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Speak (to me)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>احكي ببطء.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>i7kī bbaṭ2.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Speak slowly.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>شو يعني؟</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(shū ya3nī?)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>What does it mean?</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>شو يعني هالكلمة؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>shū ya3nī hal-kilme?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>What does this word mean?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>ساعدني</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(sā3idnī)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Help me</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>ساعدني لو سمحت.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>sā3idnī law sama7t.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Help me please.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>بدّي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(baddī)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>I need / I want</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بدّي مساعدة.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>baddī musā3ade.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I need help.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>هلّق</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(halla2)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Now</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>هلّق بدي أكل.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>halla2 baddī 2ākul.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Now I want to eat.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>بكرا</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(bukra)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Tomorrow</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بكرا عندي شغل.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>bukra 3indī shughl.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Tomorrow I have work.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>امبارح</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(imbāre7)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Yesterday</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>امبارح كنت هون.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>imbāre7 kunt hōn.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Yesterday I was here.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>اليوم</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(il-yōm)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Today</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>اليوم فاضي.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>il-yōm fāḍī.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Today I’m free.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>هلق</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(halla2)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Now (alt spelling)</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>هلق خلّصت.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>halla2 khallaṣt.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I just finished.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>بعد شوي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ba3d shway)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>In a bit</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بعد شوي بجي.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ba3d shway bijī.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I’ll come in a bit.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>بعدين</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ba3dēn)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Later / then</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بعدين منحكي.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ba3dēn mna7kī.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>We’ll talk later.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>لسّا</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(lissa)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Still / not yet</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>لسّا ما جهزت.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>lissa mā jhazzet.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I’m not ready yet.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>دايماً</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(dāyman)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Always</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>دايماً هيك.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>dāyman hēk.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Always like that.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>أحياناً</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(a7yānan)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Sometimes</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>أحياناً بتأخر.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>a7yānan bta2akhkhar.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Sometimes I’m late.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>كتير</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ktīr)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>A lot / very</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>هالشي كتير حلو.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>hal-shī ktīr 7elw.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>This is very nice.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>شوي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(shway)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>A little</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بدّي شوي مي.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>baddī shway mayy.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I want a little water.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>بس</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(bass)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Only / but</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بس دقيقة.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>bass da2ī2a.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Just a minute.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>كمان</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(kamān)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Also / too</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>أنا كمان.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ana kamān.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Me too.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>أكتر</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(aktar)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>More</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بدّي أكتر.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>baddī aktar.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I want more.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>أقل</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(a2all)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Less</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بدّي أقل سكر.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>baddī a2all sukkar.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I want less sugar.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>يمين</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(yamīn)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Right</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>لف يمين.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>lif yamīn.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Turn right.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>شمال</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(shimāl)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Left</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>لف شمال.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>lif shimāl.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Turn left.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>مستقيم</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(musta2īm)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Straight</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>روح مستقيم.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>rū7 musta2īm.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Go straight.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>قريب</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(qarīb)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Near</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>قريب من هون.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>qarīb min hōn.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Near here.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>بعيد</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(ba3īd)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Far</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بعيد شوي.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>ba3īd shway.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>It’s a bit far.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>وين الطريق؟</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(wēn iṭ-ṭarī2?)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Where is the way?</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>وين الطريق عالمول؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>wēn iṭ-ṭarī2 3al-mōl?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Where’s the way to the mall?</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>مي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(mayy)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Water</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بدّي مي.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>baddī mayy.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I want water.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>قهوة</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(2ahwe)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Coffee</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>قهوة سادة لو سمحت.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>2ahwe sāde law sama7t.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Black coffee, please.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>شاي</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(shāy)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Tea</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>بدّي شاي.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>baddī shāy.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>I want tea.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>أكل</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(2akel)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Food</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>الأكل طيب.</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>il-2akel ṭayyeb.</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>The food is good.</div>
+</div>"
+"<div style='text-align:center; line-height:1.05;'>
+<div style='color:#7C3AED; font-size:40px; font-weight:800;'>مطعم</div>
+<div style='color:#14B8A6; font-size:30px; font-weight:700; margin-top:6px;'>(maṭ3am)</div>
+</div>","<div style='line-height:1.25;'>
+<div style='color:#6B7280; font-size:30px; font-weight:800; margin-bottom:14px; text-align:center;'>Restaurant</div>
+<div style='font-size:28px; font-weight:900; margin:8px 0 10px 0; text-align:center;'>Example:</div>
+<div style='color:#7C3AED; font-size:30px; font-weight:750; text-align:center;'>وين المطعم؟</div>
+<div style='color:#14B8A6; font-size:28px; font-weight:650; margin-top:8px; text-align:center;'>wēn il-maṭ3am?</div>
+<div style='color:#6B7280; font-size:28px; font-weight:700; margin-top:8px; text-align:center;'>Where’s the restaurant?</div>
+</div>"
